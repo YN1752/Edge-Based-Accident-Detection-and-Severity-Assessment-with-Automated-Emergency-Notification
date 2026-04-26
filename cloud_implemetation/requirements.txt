@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+ipykernel
+opencv-python
+python-dotenv
+openai
+AWSIoTPythonSDK
+streamlit
