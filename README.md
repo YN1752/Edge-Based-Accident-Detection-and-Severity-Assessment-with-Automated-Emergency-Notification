@@ -34,12 +34,12 @@ Experimental results demonstrated that the edge-based approach significantly out
 
 Cloud-only System Link: http://accidentdetection-euexhaeyh8cehqhs.eastus-01.azurewebsites.net
 
-<img src="images/inf_cld.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
-<img src="images/perf_cld.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
-<img src="images/eml_cld.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
+<img src="images/inf_cld.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
+<img src="images/perf_cld.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
+<img src="images/eml_cld.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
 
-<img src="images/inf_edge.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
-<img src="images/perf_edge.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
-<img src="images/eml_edge.png" alt="Description" align="left" width="150" hspace="10" vspace="10">
+<img src="images/inf_edge.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
+<img src="images/perf_edge.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
+<img src="images/eml_edge.png" alt="Description" align="left" width="200" hspace="10" vspace="10">
 
-<img src="images/results.png" alt="Description" align="center" width="300" hspace="10" vspace="10">
+<img src="images/results.png" alt="Description" align="center" width="200" hspace="10" vspace="10">
