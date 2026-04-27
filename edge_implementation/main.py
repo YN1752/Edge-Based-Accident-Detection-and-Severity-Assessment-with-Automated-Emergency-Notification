@@ -112,9 +112,6 @@ while cap.isOpened():
         # print(vehicles_list)
         # print(crop_frame.shape)
         
-        if len(vehicles_list)<2:
-            vehicles_list.append("car")
-        
         vehicles_involved = ", ".join(vehicles_list)
 
         # print(vehicles_involved)

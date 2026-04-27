@@ -123,9 +123,6 @@ def run_inference(cap):
             veh_det_results=veh_det_model.predict(crop_frame, verbose=False, conf=0.59)
             vehicles_list = [veh_det_model.names[int(box.cls[0])] for box in veh_det_results[0].boxes]
 
-            if len(vehicles_list)<2:
-                vehicles_list.append("car")
-
             vehicles_involved=', '.join(vehicles_list)
             
             if thread_flag:
