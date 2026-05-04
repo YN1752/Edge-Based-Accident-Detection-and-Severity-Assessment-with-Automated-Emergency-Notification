@@ -42,4 +42,6 @@ Experimental results demonstrated that the edge-based approach significantly out
 
 Cloud-only System Link: http://accidentdetection-euexhaeyh8cehqhs.eastus-01.azurewebsites.net
 
+Demo: https://www.youtube.com/watch?v=z3GLI-EDIK4
+
 <img src="images/results.png" alt="Description" align="center" width="200" hspace="10" vspace="10">
